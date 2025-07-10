@@ -49,7 +49,7 @@ The inclusion of threat modeling in the SDLC can help
 
 Most threat model methodologies answer one or more of the following questions in the technical steps which they follow:
 
-#### What are we building?
+#### What are we working on?
 
 As a starting point you need to define the scope of the Threat Model. To do that you need to understand the application you are building,
 examples of helpful techniques are:
